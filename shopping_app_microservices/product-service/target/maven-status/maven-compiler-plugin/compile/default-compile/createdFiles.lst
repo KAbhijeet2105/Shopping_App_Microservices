@@ -1,0 +1,10 @@
+com\kabhijeet\dev\productservice\ProductServiceApplication.class
+com\kabhijeet\dev\productservice\repository\ProductRepository.class
+com\kabhijeet\dev\productservice\dto\ProductRequest$ProductRequestBuilder.class
+com\kabhijeet\dev\productservice\service\ProductService.class
+com\kabhijeet\dev\productservice\dto\ProductRequest.class
+com\kabhijeet\dev\productservice\model\Product$ProductBuilder.class
+com\kabhijeet\dev\productservice\model\Product.class
+com\kabhijeet\dev\productservice\dto\ProductResponse.class
+com\kabhijeet\dev\productservice\dto\ProductResponse$ProductResponseBuilder.class
+com\kabhijeet\dev\productservice\controller\ProductController.class
